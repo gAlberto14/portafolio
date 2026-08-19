@@ -38,13 +38,13 @@ export const projects: Project[] = [
     techs: ["PHP", "MapServer", "PostgreSQL"],
     placeholder: true,
   },
-  {
-    tag: "Personal",
-    type: "personal",
-    title: "Sistema de gestión de inventario",
-    description:
-      "Un bot, una herramienta CLI, una app de práctica. Cualquier cosa que hayas construido por cuenta propia vale como portafolio.",
-    techs: ["Tecnología 1", "Tecnología 2"],
-    placeholder: true,
-  },
+  // {
+  //   tag: "Personal",
+  //   type: "personal",
+  //   title: "Sistema de gestión de inventario",
+  //   description:
+  //     "Un bot, una herramienta CLI, una app de práctica. Cualquier cosa que hayas construido por cuenta propia vale como portafolio.",
+  //   techs: ["Tecnología 1", "Tecnología 2"],
+  //   placeholder: true,
+  // },
 ];
